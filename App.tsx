@@ -746,7 +746,7 @@ const App: React.FC = () => {
                 <p className="text-[10px] uppercase tracking-widest text-stone-400 mb-3">Métodos de Pago Aceptados</p>
                 <PaymentIcons />
               </div>
-              <p className="text-[10px] text-stone-400 pt-4">&copy; 2024 Espacios de Azúcar. Desarrollado por Pegüa Devs.</p>
+              <p className="text-[10px] text-stone-400 pt-4">&copy; 2025 Espacios de Azúcar. Desarrollado por Pegüa Devs.</p>
             </div>
           </footer>
         )}
