@@ -553,7 +553,7 @@ const App: React.FC = () => {
             <span className="block text-xs md:text-sm font-medium tracking-[0.3em] uppercase text-stone-900 mb-6">
               Est. 2025 &mdash; Buenos Aires
             </span>
-            <h2 className="font-serif text-5xl md:text-7xl lg:text-8xl text-stone-900 mb-8 leading-[0.9]">
+            <h2 className="font-serif text-5xl md:text-7xl lg:text-8xl text-stone-900 mb-8 leading-[1.1] md:leading-[0.9]">
               {t('hero_title_1')} <br className="md:hidden" />
               <span className="italic mx-2 md:mx-4">{t('hero_title_2')}</span>
               {t('hero_title_3')}
